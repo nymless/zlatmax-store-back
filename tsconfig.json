@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "strictPropertyInitialization": false,
+    "module": "CommonJS",
+    "target": "es6",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "typeRoots": [
+      "./global.d.ts",
+      "./node_modules/@types"
+    ],
+    "allowSyntheticDefaultImports": true
+  }
+}
